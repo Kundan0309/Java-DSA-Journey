@@ -9,5 +9,7 @@
 
 ## ✅ Day 2 (Functions + Arrays)
 - Function to Add
-- Check Prime
-...
+- MaxInArray code
+- PrimeCheck code
+- Printarray code
+- arraysum
