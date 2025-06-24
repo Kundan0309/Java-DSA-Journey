@@ -14,15 +14,16 @@
 - Printarray code
 - arraysum
 
-**##✅ Day 3 Completed Topics**
-☕ Java (OOPs Basics):
-Class & Object ✅
-Constructor ✅
-this keyword ✅
-Method Overloading ✅
-Practiced in: OOPs_Examples.java
+### ✅ Day 3 (OOPs + Arrays)
 
-🧠 DSA (Array Level Up):
-Kadane’s Algorithm ✅ → MaxSubarray_Kadane.java
-Prefix Sum ✅ → PrefixSum_Basic.java
-Pivot Index Problem ✅ → PrefixSum_PivotIndex.java
+- **Java (OOPs Basics)**  
+  - Class & Object  
+  - Constructor  
+  - `this` keyword  
+  - Method Overloading  
+  - Practiced in `OOPs_Examples.java`
+
+- **DSA (Array Level-Up)**  
+  - Kadane’s Algorithm → `MaxSubarray_Kadane.java`  
+  - Prefix Sum → `PrefixSum_Basic.java`  
+  - Pivot Index → `PrefixSum_PivotIndex.java`
