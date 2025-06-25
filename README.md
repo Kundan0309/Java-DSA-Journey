@@ -27,3 +27,13 @@
   - Kadane’s Algorithm → `MaxSubarray_Kadane.java`  
   - Prefix Sum → `PrefixSum_Basic.java`  
   - Pivot Index → `PrefixSum_PivotIndex.java`
+
+# 📅 Day 4 – Java OOPs (Lite Mode)
+
+## 🧠 Topics Covered:
+- ✅ Classes and Objects
+- ✅ Constructors (Default and Parameterized)
+- ✅ `this` keyword
+- ✅ Inheritance (Single)
+- ✅ `super` keyword
+- ✅ Method Overriding
